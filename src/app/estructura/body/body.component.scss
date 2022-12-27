@@ -1,0 +1,19 @@
+:host{
+    flex-grow: 1;
+    padding: 2rem;
+}
+main{
+    height: 100%;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-evenly;
+    list-style-type: none;
+    a{
+        color: inherit;
+        font-size: 1.5rem;
+        text-decoration: none;
+    }
+}

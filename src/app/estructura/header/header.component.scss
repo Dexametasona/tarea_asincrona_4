@@ -1,0 +1,10 @@
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    a{
+        color: inherit;
+        font-size: 1.5rem;
+        text-decoration: none;
+    }
+}

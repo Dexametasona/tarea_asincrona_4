@@ -1,0 +1,14 @@
+*{
+    display: block;
+}
+:host{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background:linear-gradient(
+        to right,
+        white,
+        rgb(104, 103, 103)
+    );
+}
+
